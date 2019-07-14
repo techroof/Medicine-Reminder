@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResabeaApp</string>
+<string-array name="reminder_choice">
+    <item>Reminder Choice</item>
+    <item>Daily Reminder</item>
+    <item>Select Days</item>
+
+</string-array>
+</resources>

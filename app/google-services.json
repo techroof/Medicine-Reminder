@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341946160092",
+    "firebase_url": "https://medicationrecordapp.firebaseio.com",
+    "project_id": "medicationrecordapp",
+    "storage_bucket": "medicationrecordapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341946160092:android:959a7e6bd411b8cf",
+        "android_client_info": {
+          "package_name": "teamqitalach.pillapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341946160092-8ftq3acsjnn8lcfl9nlltdcoltkhhv7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnK89rTlq5oeul1fU26UrEJMGClfUmlm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
